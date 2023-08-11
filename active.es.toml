@@ -1,0 +1,3 @@
+[Greeting]
+hash = "1234"
+other = "Hola, me llamo {{.Name}}"
